@@ -38,7 +38,7 @@ class MainTest {
 
     @org.junit.jupiter.api.Test
     void roundPositiveValueToNearestInteger() {
-        assertEquals(9, Main.roundPositiveValueToNearestInteger(8.5));
+            assertEquals(9, Main.roundPositiveValueToNearestInteger(8.5));
     }
 
     @org.junit.jupiter.api.Test
